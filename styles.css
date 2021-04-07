@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+.container {
+    width: 75%;
+    padding: 1em;
+    height: 200px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.post {
+    text-align: center;
+}
