@@ -27,3 +27,13 @@ body {
 .post {
     text-align: center;
 }
+
+.logo {
+    width: 50%;
+    height: 200px;
+}
+
+.cabecera img {
+    width: 50%;
+    height: 200px;
+}
