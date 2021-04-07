@@ -37,3 +37,10 @@ body {
     width: 50%;
     height: 200px;
 }
+
+.footer {
+    background-color: rgb(20, 182, 47);
+    text-align: center;
+    padding: 50px;
+    color: aliceblue;
+}
